@@ -3,3 +3,10 @@
     height: 300px;
     
 }
+.temp{
+    display: block;
+}
+#alert{
+    position: absolute;
+    top: 50px;
+}
